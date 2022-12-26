@@ -1,0 +1,8 @@
+name: AntiCast
+main: AntiCast.AntiCastPlugin
+version: 1.0
+api-version: 1.15
+commands:
+  sbalc:
+      description: Display debug information and refresh SBALC cashe
+      usage: /sbalc 
