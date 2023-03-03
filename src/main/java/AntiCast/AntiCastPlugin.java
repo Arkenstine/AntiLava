@@ -13,7 +13,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 /*
  * AntiCast java plugin
- * 
+ * updated by Lyla
  * @author Sam Belliveau (sam.belliveau@gmail.com)
  */
 public class AntiCastPlugin extends JavaPlugin implements Listener  {
