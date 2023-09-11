@@ -1,2 +1,2 @@
 # AntiLava
-A Minecraft Anti Lava Cast plugin
+A simple Minecraft Anti Lava Cast plugin
